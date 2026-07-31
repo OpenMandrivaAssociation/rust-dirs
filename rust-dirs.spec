@@ -5,8 +5,8 @@
 %global crate dirs
 
 Name:           rust-%{crate}
-Version:        2.0.2
-Release:        2%{?dist}
+Version:        6.0.0
+Release:        1%{?dist}
 Summary:        Platform abstractions for common directories
 
 # Upstream license specification: MIT OR Apache-2.0
